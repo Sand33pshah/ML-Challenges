@@ -1,2 +1,4 @@
 # ML-Challenges
-This is the solution to the problem given on hackathon organized by internshala and analytical vidhya
+This is the solution to the problem given in the hackathon organized by Internshala and Analytical Vidhya.
+
+This project cum competition, organized by Internshala and hosted on Analytical Vidhya's portal, presented an exciting opportunity for me to showcase my skills and problem-solving abilities. Instead of submitting the final project to Internshala, I submitted my solution directly to Analytical Vidhya, which ultimately earned me the prestigious third rank in the competition. Achieving this feat was incredibly rewarding, as it not only recognized my capabilities but also came with a generous reward of 10,000 INR. This achievement served as a powerful motivation for me to participate in more hackathons and competitive coding events, further fueling my passion for continuous growth and excellence.
